@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-05-18T12:20:22.543537518+02:00
+    description: A Helm chart for Kubernetes
+    digest: f968634e2c99e249cdec776b9c484089afc18afcc34a6b38ec9b869f7c9a59c3
+    name: mychart
+    urls:
+    - mychart-0.1.0.tgz
+    version: 0.1.0
+  sendchart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-05-18T12:20:22.543728244+02:00
+    description: A Helm chart for Kubernetes
+    digest: 90f58f164bf28084081036e91366b33032a2a2084b337ca9cbe3e9408e071a67
+    name: sendchart
+    urls:
+    - sendchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-05-18T12:20:22.543097579+02:00
